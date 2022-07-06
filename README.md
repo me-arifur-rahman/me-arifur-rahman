@@ -19,8 +19,8 @@ Skills: Html, Css, Javascript, jQuery, React, Wordpress
 [![](https://img.shields.io/badge/facebook-blue?style=for-the-badge)](https://www.facebook.com/me.alamin-arif)
 [![](https://img.shields.io/badge/twitter-blue?style=for-the-badge)](https://twitter.com/alamin__arif)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminarif)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminarif&show_icons=true)  
-![GitHub metrics](https://metrics.lecoq.io/alaminarif)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alaminarif) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=me-arifur-rahman)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=me-arifur-rahman&show_icons=true)  
+![GitHub metrics](https://metrics.lecoq.io/me-arifur-rahman)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=me-arifur-rahman) 
 
